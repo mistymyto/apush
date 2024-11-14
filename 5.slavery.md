@@ -18,12 +18,6 @@
 
 ## Dutch & French Colonies
 
-|   | Reasons for Colonization | Economic pursuits |
-| - | ------------------------ | ----------------- |
-|   |
-|   |
-|   |
-
 - French colonized Quebec & Montreal
 - Dutch colonized New Amsterdam
 

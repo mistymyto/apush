@@ -1,4 +1,4 @@
-52 # Colonial Turmoil and Conflicts
+# Colonial Turmoil and Conflicts
 
 - Population in NA during 1670s declined
 
