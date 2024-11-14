@@ -1,0 +1,377 @@
+# The American Revolution
+
+## Albany Plan of Union (NY, 1754)
+
+- Benjamin Franklin
+- Setup a "general government" of the colonies
+- Effort to deal with the Indian issues affected all the colonies
+- PA, MD, NY, and New England
+> "JOIN, or DIE."
+- No colonial assembly approved
+- Failed to bring colonies together
+
+## The French & Indian War
+
+- French & Native Allies vs. the British & their native allies for territory
+- The British forced colonists to enlist and cofiscated goods without payment
+- George Washington
+
+### William Pitt
+
+- Took over the wartime operations for England
+- Turned recruitment and supplies over to the colonies and promised to reimburse them
+- Committed more troops
+- Replaced old generals
+- French surrender after their loss at Montreal
+
+### Treaty of Paris (1763)
+
+- When George III takes the throne, the war will end with the Treaty of Paris
+- England gains all of Canada from the French
+- England claims all french territory east of the Mississippi
+- Spanish gives the Florida territory to England
+
+### Consequences
+
+- Differing views of the war
+- England perceived colonists as militarily weak
+    - Poorly trained, disorderly, unwilling to contribute troops or money
+- Colonists were proud
+    - British had outdated methods of fighting and poor leadership
+- Largest war expenditures Britain had ever known
+    - Move away from **Salutary Neglect**
+    - Unofficial policy of not enforcing trade regulations on the colonies
+    - The financial burden of the war will cause Britain to tighten its grip on the colonies
+
+### Pontiac's Rebellion (1763)
+
+- British treatment of Native Americans in former French territories will lead to violent conflict
+- Pontiac, a leader of the Odawa tribe, lead 300 members of different tribes to attack on Fort Detroit
+- British managed to hold onto Fort Detroit
+- Inspired by Pontiac, Native American resistance spread, and Pontiac had tripled his force
+- Native Americans managed to capture 8 of 11 British forts in the Ohio Valley
+- Can never be peaceful in Ohio 💀
+
+### Royal Proclamation of 1763
+
+- Drew a boundary line in the Appalachian mountains
+- Forbidding colonists from settling the lands west of the line
+- West was designated Indian territory
+- The British hoped to neutralize conflict between white settlers and Native Americans
+- Instead, they ended up provoking the American colonists
+
+## Road to Revolution - Taxes
+
+> "Everyone who does not agree with me is a traitor and a scoundrel." - King George III
+
+### Vice Admiralty Courts
+
+- Enforcement of customs and criminal charges for smuggling
+- Eleven courts were established in North America
+- Only a judge ruled in these cases
+- Extensive protest from the colonies
+    - Many felt as though their right to be tried by their peers as Englishmen was being denied
+
+### Sugar Act of 1764
+
+- Required colonial merchants to pay taxes on colony-imported sugar & molasses
+- End the smuggling trade in sugar from the French and Dutch West Indies
+- Raise military revenue
+- Lead to protest again
+    - Colonists claimed that the British West Indies could not produce enough molasses for their needs
+
+### Currency Act of 1764
+
+- Prohibited the colonies from giving bills of credit (paper money) the same status as gold or silver
+- Colonial currency worth less than British
+- Colonists blamed this Act for the recession following the French and Indian War
+- Boycotts of British goods begin in Massachusetts
+
+### Mutiny (Quartering) Act, 1765
+
+- British soldiers were to be given room and board in the colonies
+- Militia barracks, local inns, stables, ale houses, taverns, and the houses of sellers of wine
+- Colonists required to provide fuel, food, and transportation to British solders
+- The New York colonial assembly refused to comply, citing no consent was given (L + RATIO + WHO ASKED)
+
+### The Stamp Act, 1765
+
+- First direct tax on American colonists (end of **salutary neglect**)
+- Paper documents
+    - Wills
+    - Newspapers
+    - Licenses
+    - Playing cards
+- Patrick Henry in VA House of Burgesses began protests
+- Virginia Resolves - only colonists could tax themselves
+- James Otis in MA - *Rights of the British Colonies Asserted and Protested*
+- Pamplets called for cooperative protest from all colonies
+> "No taxation without representation"
+- <u>British Perspective</u>:
+    - Parliament represented all non-noble citizens in the empire regardless of if they voted
+    - Virtual representation
+- <u>Colonist's Perspective</u>:
+    - Colonists should send representatives
+    - Actual representation
+
+### Stamp Act Congress - NY
+
+- Nine colonies sent representatives
+    - Colonists were equal to British citizens
+    - Only elected representative could impose taxes
+- Began organized resistance
+     - Sons of Liberty - Samuel Adams
+     - Encouraged mob action, organized boycotts of British goods
+- Stamp Act / Sugar Act REPEALED!
+
+### Declaratory Act (1766)
+
+- Accompanied the repeal of the Stamp Act
+- Parliament's authority to tax and "make laws and statutes...to bind the colonies...in all cases whatsoever"
+
+### The Townshend Acts (1767)
+
+- Customs duties on imported goods from England
+- Not a direct tax
+- Glass, led, paint, tea, paper
+- Instituted **writs of assistance** - search warrants for private homes to look for smuggled goods
+- John Dickinson - Letters from a Farmer in Pennsylvania
+    - Townshend Acts were illegal
+    - Only colonial assemblies could raise money with taxes
+
+### Boston Massacre (1770)
+
+- British troops fired on anti-British demonstrators
+- 5 colonists killed
+- Colonial boycott ended
+- Townshend Acts repealed
+- Three year period of calm - no new taxes
+
+### Committees of Correspondence
+
+- **Samual Adams**
+- Exchange of letters about suspicious and potentially threatening British activities
+- Taverns were central meeting places where ideas about resistance were discussed
+
+### Tea Act (1773)
+
+- British East India Company on verge of bankruptcy
+- Sell tea directly to the colonies without a tax
+- Made tea cheaper
+- Colonists boycott British tea
+- Ports prohibited the unloading of British tea
+- **Boston Tea Party**
+    - Sons of liberty dumped 342 chests of tea into Boston harbor
+
+### Coercive/Intolerable Acts (1774)
+
+- Port Bill was closed until tea was paid for
+- Massachusetts Government Act
+    - Reduced power of legislature and increased power of the royal governor
+- Expansion of Quartering Act - troops in private homes
+- Responses:
+    - N.C. women - **Edenton Proclamation** - promise to boycott British goods
+    - Sons of Liberty - call to prepare military defenses
+    - Thomas Jefferson - *A Summary View of the Rights of British America*
+        - Listed grievances against King George III
+
+### Quebec Act (1774)
+
+- Gave Quebec a self-governing structure and freedom to practice Catholicism
+- Colonial anger
+- Parliament seemed to expand the right of Catholics while depriving colonists of their liberties
+
+### First Continental Congress (Philadelphia, 1774)
+
+- Determine how and to what the colonies should react
+- All colonies except Georgia sent representatives
+- First time most of the colonies acted together
+- Representatives:
+    - Patrick Henry & George Washington (VA)
+    - Samuel Adams & John Adams (MA)
+    - John Dickinson (PA)
+- Decisions
+    - Extend boycotts
+    - Make military preparations
+    - Petition to the king to redress colonial grievances and restore their rights
+
+### England's Response
+
+- King dismissed the petition
+- Declared MA in a state of rebellion
+- Sent additional troops to enforce the Coercive Acts by military means
+- General Gage was ordered to arrest resistance leaders in MA
+- **Lexinton and Concord, MA (April 18, 1775)**
+    - First shots of the American Revolution
+
+## Philosophical Beliefs for War
+
+### The Second Continental Congress (May 1775, Philadelphia)
+
+- Authorized an army & appointed George Washington as Commander-in-Chief
+- Only 1/3 of colonists wanted independence
+- *Declaration of the Causes and Necessities for Taking Up Arms* - called on colonies to provide troops
+
+### Peace Effort - Olive Branch Petition (July, 1775)
+
+- Loyalty pledge & request to the king to intercede with Parliament for peace and protection of colonial rights
+- King dismissed it immediately
+- Declared colonies in rebellion
+- Trading and shipping forbidden between England & colonies
+    - Blockade of American ports
+
+### <u>The Enlightenment (1600s-1700s)</u>
+
+- Created new ideas about people's rights and their relationship with government
+- Was government good or trustworthy?
+- Were people bad or in need of strict guidance?
+- <u>John Locke</u>
+    - English Enlightenment thinker
+    - His ideas inspired the colonists' belief in <u>self-government</u>
+    - Examples of self government:
+        - Voting
+        - Democracy
+
+| Enlightenment Ideas | Definitions |
+| - | - |
+| Consent of the governed | The people give their permission to be governed |
+| Seperation of Church & State | The gov't cannot establish a state church (religion) |
+| Natural Rights | Life, Liberty & Property |
+| People are free and equal | People are treated the same in the eyes of the law |
+| Social Contract | People agree to follow laws for gov't protections-if a gov't breaks the contract the people can overthrow it |
+| Limited Government | Government powers should be limited (not all powerful) |
+
+### Thomas Paine
+
+- English born American political activist, philosopher, & political theorist
+- Wrote two influencial pamphlets at the start of the American Revolution
+    - Common Sense
+        - Challenged the authority of the British government & the royal monarchy
+        - Used plain language that spoke to the common people of America
+        - Was the first work to openly ask for independence from Great Britain
+    - The American Crisis
+- Helped inspire the patriots in 1776 to declare independence from Great Britain
+
+### Declaration of Independence (1776)
+
+- Mostly written by Thomas Jefferson
+- Inspired by the writings of John Locke
+- Natural rights that all people should enjoy
+- Power to govern the new nation should come from the people
+- **"Contract theory"** - the government should protect people's rights
+    - People can rebel against a government that threatens their rights
+
+### Patriot
+
+- Those who rebelled against British rule and fought for independence
+- <u>Why be a Patriot?</u>
+    - Desire for Equality
+        - British officers often treated colonists at a lower level
+    - Frustration
+        - "No taxation without representation"
+
+### Loyalist
+
+- A person who remained loyal to British rule
+- <u>Why be a Loyalist?</u>
+    - Most people living in the colonies still have families in Great Britain
+    - Being part of the British Empire kept the colonies safe and gave them access to trade
+        - Justified the taxes on the colonies
+
+## War Mobilization
+
+### Competing Advantages
+
+- England
+    - More powerful military
+    - Well trained & supplied
+    - Superior Navy
+- America
+    - Fought in the colonies
+    - Fought defensively
+    - Guerilla warfare
+        - Committed leadership
+        - Washington
+
+### Battle of NYC
+
+- British troops move from Nova Scotia to New York City
+- Hoped to find many loyalists there and make NYC the center of their campaign
+- British aided by Hessians (German mercenaries)
+- Washington retreats with many casualties
+
+### Battles of Trenton/Princeton
+
+- Washington launches a surprise attack on Hessians
+- Dec 25th, 1776, American militia crosses Delaware
+- Victory for the Americans
+- Washington marches into Princeton NJ
+- Crushing defeat for the British
+
+### Battles of Saratoga, NY
+
+- Major British defeat and **turning point** of the Revolution
+- British try to cut off New England from rest of colonies
+    - General Burgoyne moves down from Canada
+    - General Howe up the Hudson to join at Albany
+- Surprising victory - persuaded France (under Louis XVI) to join war against Britain
+
+### Treaty of Amity and Commerce
+
+- Franco-American Alliance negotiated by Ben Franklin
+- Recognized the de facto independence of the U.S.
+- Established mutual commercial and navigation rights between the two nations
+- Provided Patriots with loans, munitions, and army/naval forces
+
+### Valley Forge, PA
+
+- The six-month encampment of Washington's Army
+- Low point of the war
+- Low on food, supplies, and many lacked proper clothing for the bitter cold
+- Prussian nobleman Baron Friedrich von Steubon helped to train and discipline raw recruits
+
+### Battle of Yorktown (1781)
+
+- Gen. Cornwallis marches to Yorktown, VA to await a shipment of supplies
+- Washington ordered Marquis de Lafayette with 5000 troops to block Cornwallis' escape by land
+- The French naval fleet blocked the British escape by sea
+- Cornwallis surrenders - last major battle of the war
+
+### Treaty of Paris (1783)
+
+- Negotiated by Benjamin Franklin, John Adams, & John Jay
+- **Provisions of the Treaty:**
+    - Established America's new boundaries
+        - West to the Mississippi, north to the Great Lakes, south to Spanish FLorida
+    - Britain formally recognized the United States as an independent nation
+    - Americans would pay debts owed to British merchants
+
+## Social Impacts of the Revolution
+
+### Women
+
+- The Revolution led some women to question their position in society
+- Only improvement for women is the appreciation of mothering abilities
+- **"Republican motherhood"**
+    - Women would be responsible for raising their children to be virtuous citizens of the American republic
+
+### Native Americans
+
+- Most American Indians had better relations with British than with Americans
+- Weakening of their power and independence
+- Deep divisions among tribes
+
+### Slaves
+
+- Some enslaved people were freed
+    - Emancipated by the British during the war
+- Lord Dunmore's Proclamation (VA)
+- Northern states combined revolutionary ideas with Christianity which spread anti-slavery sentiments
+
+## Review
+
+- Congresses
+- Thomas Paine's *Common Sense*
+- Impacts of Am Rev
+- Declaration of independence
+- TTKs
