@@ -78,4 +78,20 @@
 - Alexander Stephens - Vice Pres.
 - <u>Generals</u>
     - Robert E. Lee
+        - Did not like southern secession
+        - Favored state & family over country however
     - Thomas "Stonewall" Jackson
+
+## Major Battles & Events
+
+### Cornerstone Speech
+
+- Stephens insists white superiority
+
+### Union Plan
+
+- <u>Anaconda Plan</u>
+    - General Winfield Scott
+    1. Blockade Southern ports - cut off supplies
+    2. Divide the Confederacy - Take control of the Mississippi River
+    3. 
