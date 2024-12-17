@@ -27,8 +27,8 @@
 
 - Lincoln will act above his constitutional powers often during the Civil War
 - Never asks Congress for a declaration of War (domestic insurrection)
+- Never asks Congress to increase the military
 - Will declare a military blockade of the South without Congressional approval
-- Never asks ongress to increase the military
 - <u>Wartime Repression</u>
     - Silence of those opposed to the war in the North
     - Arrest of civilian dissenters
@@ -174,3 +174,51 @@
 - Dedication of the Gettysburg National Cemetery, Nov. 19, 1863
 - "Dedicated to the proposition that all men are created equal."
 - "of the people, by the people, for the people"
+
+## Ending the Civil War
+
+### Election of 1864
+
+- Lincoln vs. George McClellen
+- Lincoln, concerned he wouldn't win, names Andrew Johnson (Democrat) as his VP
+
+### Southern Bread Riots
+
+- Women in 1863 - shops and stores were violently invaded and looted triggered by the lack of money, provisions, and food
+- <u>Causes</u>
+    - Inflation had caused prices to soar
+    - Food supplies in rural areas were running short and less food was exported to cities
+    - Union armies ravaged crops and killed farm animals
+    - Cities were at the end of long supply lines
+
+### <u>Sherman's March to the Sea</u>
+
+- Union Gen. William T. Sherman
+- Marched from Atlanta to Savannah, GA
+- "War of attrition"
+    - Destroyed military targets, industries, and civilian property
+    - Disrupted the Confederacy's economy and trasnportation networks
+
+### Appomattox Court House
+
+- Official end to the Civil War
+- Lee surrendered to Grant at Appomattox Court House - Apr 9, 1865
+- Grant treated Lee with respect & allowed his men to return home with their horses
+
+### Second Inaugural Address
+
+- Stated that the defeated South be treated benevolently
+
+### Proclamation of Amnesty and Reconstruction
+
+- Full presidential pardons for most Southerners who met 2 qualifications:
+    1. Took an oath of allegiance to the Union and the US Constitution
+    2. Accepted the emancipation of slaves
+- State governments could be accepted as legitimate as soon as 10% voters in that state took the loyalty oath
+- Each Southern state would have to rewrite its constitution to eliminate the existence of slavery
+
+### Assassination of Lincoln
+
+- Lincoln killed by John Wilkes Booth
+- Other assassination attempts also occured
+- Succeeded by Andrew Johnson
