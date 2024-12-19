@@ -21,7 +21,7 @@
 - Southern states will view this as a declaration of war
     - 4 more southern states secede after Lincoln's call for federal troops
     - VA, NC, TENN, ARK
-- Border states like OK, MO, KY, WVA, MD, & DEL kept slavery but are in the Union
+- Border states like MO, KY, WVA, MD, & DEL kept slavery but are in the Union
 
 ### Lincoln & Federal Power
 
