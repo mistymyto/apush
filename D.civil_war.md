@@ -21,7 +21,7 @@
 - Southern states will view this as a declaration of war
     - 4 more southern states secede after Lincoln's call for federal troops
     - VA, NC, TENN, ARK
-- Border states like OK, MO, KY, WVA, MD, & DEL kept slavery but are in the Union
+- Border states like MO, KY, WVA, MD, & DEL kept slavery but are in the Union
 
 ### Lincoln & Federal Power
 
@@ -172,8 +172,9 @@
 ### The Gettysburg Address
 
 - Dedication of the Gettysburg National Cemetery, Nov. 19, 1863
-- "Dedicated to the proposition that all men are created equal."
-- "of the people, by the people, for the people"
+- Reference to the Declaration of Independence
+    - "Dedicated to the proposition that all men are created equal"
+    - "Of the people, by the people, for the people"
 
 ## Ending the Civil War
 
