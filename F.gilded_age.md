@@ -116,3 +116,7 @@
 - Only Native Americans who accepted it were allowed to be US citizens
 - <u>Objective</u>: to assimilate Native Americans into mainstream US society by annihilating their cultural and social traditions
 - <u>Result</u>: over 90 million acres of tribal land were stripped from Native Americans and sold to non-natives
+
+## 2nd Industrial Revolution
+
+- $E=mc^2$
