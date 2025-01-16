@@ -119,4 +119,69 @@
 
 ## 2nd Industrial Revolution
 
-- $E=mc^2$
+- By the 1900s, US emerged as the world's leading industrial power
+- Factors of Economic Transformation:
+    - Natural Resources
+        - Coal
+        - Iron Ore
+        - Lumber
+    - Immigrant Workforce
+        - Filled the need for labor in large industrial cities including:
+            - New York
+            - Chicago
+            - Detroit
+            - Pittsburgh
+        - Eastern Europe: Russia & Italy
+        - Asia: China & Japan
+    - Labor Saving Technologies
+        - Incandescent Light Bulb
+        - Automobile
+        - Typewriter
+    - Laissez-Faire ("Hands off") Government
+        - Business friendly Gov't policies
+        - Protective tariffs
+        - Little regulation
+        - Few taxes
+
+### Industry Innovations
+
+- Bessemer-Kelly Process
+    - Converted large quantities of iron to steel efficiently
+    - Pittsburgh, PA - center of steel making in the US
+    - Increase in railroads, machines, skyscrapers, etc.
+- "Scientific Management"
+    - Frederick Winslow Taylor
+    - Re-organize production by dividing tasks among workers
+    - Faster production
+    - Highly skilled workers not needed
+    - Workers are interchangable
+
+### New Inventions
+
+- Henry Ford - Ford Model T
+    - Assembly Line manufacturing
+- Alexander Graham Bell - Telephone, 1876
+- Thomas Edison - Incandescent Light Bulb, 1879
+
+### Trust - Monopoly
+
+- The creation of large empires in many areas of business will lead to monopolies
+- One business having control over their industry
+- NO competition
+- Large business owners believed free enterprise and competition were detrimental to American business
+- Economic power concentrated in the hands of a few
+- How they work:
+    1. **Horizontal integration**
+        - Controls product's production
+        - A company buys its competitors
+        - Eliminated wast and kept prices low
+    3. **Vertical integration**
+        - Controls both the production & distribution
+        - Controls every stage of industrial process
+            - Mining the raw materials to transporting the finished product
+            - Cut costs and prices and gained efficiency
+- Monopolists
+    - **Cornelius Vanderbilt**, Steamships & Railroads
+    - **Andrew Carnegie**, steel (Carnegie Steel Co.)
+    - **J.P. Morgan**, investment banker & buys Carnegie Steel
+    - **John Rockefeller**, oil (Standard Oil Co.)
