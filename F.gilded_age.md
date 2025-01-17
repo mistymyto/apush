@@ -16,7 +16,7 @@
 - Federal government played a large role
 - "Frontier Thesis" (1893)
     - Frederick Jackson Turner
-    - Qualities neede for life in the West became the quintessential American qualities
+    - Qualities needed for life in the West became the quintessential American qualities
     - Individualism
     - Nationalism
     - Democracy
