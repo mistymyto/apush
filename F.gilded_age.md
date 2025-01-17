@@ -185,3 +185,50 @@
     - **Andrew Carnegie**, steel (Carnegie Steel Co.)
     - **J.P. Morgan**, investment banker & buys Carnegie Steel
     - **John Rockefeller**, oil (Standard Oil Co.)
+
+## Gilded Age Workers
+
+### Working Conditions
+
+- $600 a year - considered livable wage ($3000 tafi)
+- Men averaged $400-500 a year
+- 10/12 hours a day, 6 days a week
+- Once skilled artisans could not keep up with repetitive tasks
+- Injuries were common and severe
+    - Limited compensation from owners
+
+### Women in the Workforce
+
+- Went to work to supplement the low wages of their husbands
+- 17% in the workforce, 20% under the age of 25 in 1900s
+- $6-8 a week, $314 a year
+
+### Children in the Workforce
+
+- 17 mil children under 16 working in 1900
+- 60% worked in agriculture for 12 hrs
+- Factory work is 10 hr days under 10 yrs old
+- 38 states pass child labor laws with limited impact
+
+### Company towns
+
+- Town where all stores and housing are owned by a company that is also the main employer
+- Often planned with amenities such as stores, churches, schools, markets, etc.
+- All rent and other fees woould be paid directly to the company
+
+### Social Darwinism
+
+- Application of "survival of the fittest" to the free marketplace
+- Popular among businessmen bc it justified their ruthless business tactics
+- Humans can progress only if they are free to compete with each other
+- Help for the poor weakens the evolution of the species
+- "Unfit" should be left to die out - only the fittest will survive in a free marketplace
+
+### The "self-made" man
+
+- ***Gospel of Wealth*** by Andrew Carnegie
+    - The "Protestant work ethic" would bring wealth
+    - Wealthy had a God-given responsibility to carry out philanthropy and better their community
+- ***Sink or Swim*** by Horatio Alger
+    - Books about boys who became rich through hard work, honesty, and a 'little' luck
+    - Financial success often due to the parents wealth
