@@ -232,3 +232,70 @@
 - ***Sink or Swim*** by Horatio Alger
     - Books about boys who became rich through hard work, honesty, and a 'little' luck
     - Financial success often due to the parents wealth
+
+## Union Treatment
+
+### The Great Railroad Strike, 1877
+
+- Workers protesting a pay cut "walked out"
+- Affected traffic throughout the country so badly state militias were called to force the protesters back to work
+- Troops fired into the crowd at Pittsburg, killing 20
+- Workers responded by destroying rail yards
+- Millions of damage was done
+
+### The Knights of Labor
+
+- First group to organize skilled and unskilled workers including women and African Americans
+- Largest labor organization in the 19th century
+- Led by Terence V. Powderly
+- **Demanded change through:**
+    - Strikes and boycotts
+    - Political action
+    - Educational activities
+- Goals:
+    - 8 hr workday
+    - Currency reform
+    - Government social programs
+
+### The Haymarket Affair/Riot, 1886
+
+- Workers across several cities demonstrated for an 8 hr work day on May 1st
+- Chicago, Haymarket Square, a bomb was thrown into the crowd, killing a policeman
+- Other police opened fire into the crowd causing panic
+- Will paint the labor movement as unpatriotic and violent
+- Knights of Labor became less influential
+
+### American Federation of Labor
+
+- Led by Samuel Gompers
+- Focused on the organization of skilled workers
+- Major industries as railways, steel, mining, and construction
+- Homestead Strike @ Carnegie Steel, 1892
+- Advocated for the right to negotiate (collectively bargain) for:
+    - Wages
+    - Benefits
+    - Hours
+    - Working conditions
+- Now became AFLCIO
+
+### American Railway Union
+
+- Led by Eugene V. Debs
+- Welcomed any railway worker except for those above the rank of foreman
+- <ins>Great Northern Railroad Strike, 1894</ins>
+    - Successfully protested wage cuts after 18 days
+- <ins>1894 Pullman Strike</ins>
+    - 20000 federal troops ended the strike & Debs arrested for 6 months
+
+### ILGWU
+
+- First US union to have a primarily female membership
+- <ins>The "Uprising of 20000", 1909</ins>
+    - 12 week protest following the Triangle Shirtwaist Factory fire
+    - Successful in improving wages, working conditions, and hours
+- Developed workers' education programs that trained members on:
+    - Striking
+    - History
+    - Economics
+    - International relations
+- Also sponsored health clinics and invested in affordable housing
