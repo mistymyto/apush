@@ -16,7 +16,7 @@
 - Federal government played a large role
 - "Frontier Thesis" (1893)
     - Frederick Jackson Turner
-    - Qualities neede for life in the West became the quintessential American qualities
+    - Qualities needed for life in the West became the quintessential American qualities
     - Individualism
     - Nationalism
     - Democracy
@@ -185,3 +185,117 @@
     - **Andrew Carnegie**, steel (Carnegie Steel Co.)
     - **J.P. Morgan**, investment banker & buys Carnegie Steel
     - **John Rockefeller**, oil (Standard Oil Co.)
+
+## Gilded Age Workers
+
+### Working Conditions
+
+- $600 a year - considered livable wage ($3000 tafi)
+- Men averaged $400-500 a year
+- 10/12 hours a day, 6 days a week
+- Once skilled artisans could not keep up with repetitive tasks
+- Injuries were common and severe
+    - Limited compensation from owners
+
+### Women in the Workforce
+
+- Went to work to supplement the low wages of their husbands
+- 17% in the workforce, 20% under the age of 25 in 1900s
+- $6-8 a week, $314 a year
+
+### Children in the Workforce
+
+- 17 mil children under 16 working in 1900
+- 60% worked in agriculture for 12 hrs
+- Factory work is 10 hr days under 10 yrs old
+- 38 states pass child labor laws with limited impact
+
+### Company towns
+
+- Town where all stores and housing are owned by a company that is also the main employer
+- Often planned with amenities such as stores, churches, schools, markets, etc.
+- All rent and other fees woould be paid directly to the company
+
+### Social Darwinism
+
+- Application of "survival of the fittest" to the free marketplace
+- Popular among businessmen bc it justified their ruthless business tactics
+- Humans can progress only if they are free to compete with each other
+- Help for the poor weakens the evolution of the species
+- "Unfit" should be left to die out - only the fittest will survive in a free marketplace
+
+### The "self-made" man
+
+- ***Gospel of Wealth*** by Andrew Carnegie
+    - The "Protestant work ethic" would bring wealth
+    - Wealthy had a God-given responsibility to carry out philanthropy and better their community
+- ***Sink or Swim*** by Horatio Alger
+    - Books about boys who became rich through hard work, honesty, and a 'little' luck
+    - Financial success often due to the parents wealth
+
+## Union Treatment
+
+### The Great Railroad Strike, 1877
+
+- Workers protesting a pay cut "walked out"
+- Affected traffic throughout the country so badly state militias were called to force the protesters back to work
+- Troops fired into the crowd at Pittsburg, killing 20
+- Workers responded by destroying rail yards
+- Millions of damage was done
+
+### The Knights of Labor
+
+- First group to organize skilled and unskilled workers including women and African Americans
+- Largest labor organization in the 19th century
+- Led by Terence V. Powderly
+- **Demanded change through:**
+    - Strikes and boycotts
+    - Political action
+    - Educational activities
+- Goals:
+    - 8 hr workday
+    - Currency reform
+    - Government social programs
+
+### The Haymarket Affair/Riot, 1886
+
+- Workers across several cities demonstrated for an 8 hr work day on May 1st
+- Chicago, Haymarket Square, a bomb was thrown into the crowd, killing a policeman
+- Other police opened fire into the crowd causing panic
+- Will paint the labor movement as unpatriotic and violent
+- Knights of Labor became less influential
+
+### American Federation of Labor
+
+- Led by Samuel Gompers
+- Focused on the organization of skilled workers
+- Major industries as railways, steel, mining, and construction
+- Homestead Strike @ Carnegie Steel, 1892
+- Advocated for the right to negotiate (collectively bargain) for:
+    - Wages
+    - Benefits
+    - Hours
+    - Working conditions
+- Now became AFLCIO
+
+### American Railway Union
+
+- Led by Eugene V. Debs
+- Welcomed any railway worker except for those above the rank of foreman
+- <ins>Great Northern Railroad Strike, 1894</ins>
+    - Successfully protested wage cuts after 18 days
+- <ins>1894 Pullman Strike</ins>
+    - 20000 federal troops ended the strike & Debs arrested for 6 months
+
+### ILGWU
+
+- First US union to have a primarily female membership
+- <ins>The "Uprising of 20000", 1909</ins>
+    - 12 week protest following the Triangle Shirtwaist Factory fire
+    - Successful in improving wages, working conditions, and hours
+- Developed workers' education programs that trained members on:
+    - Striking
+    - History
+    - Economics
+    - International relations
+- Also sponsored health clinics and invested in affordable housing
