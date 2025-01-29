@@ -299,3 +299,83 @@
     - Economics
     - International relations
 - Also sponsored health clinics and invested in affordable housing
+
+## Immigration & Urbanization
+
+- US population increased by 3 times
+- 23 mil in 1850 to 76 mil in 1900
+
+### Reasons for Immigration
+
+- Poverty of farmers displaced by industry
+- Overcrowding and joblessness in European cities
+- Religious persecution of Jews in Russia
+- Reputation of US as a land of opportunity with religious & political freedom
+- <ins>Waves of Immigration<ins>
+    - "Old" - northern and western Europe
+        - Before 1887
+        - High literacy, generally Protestant, skilled, interested in farming
+    - "New" - eastern and southern Europe, Asia
+        - After 1887
+        - Illiterate, often unorthodox religions, few skills, settled in cities
+
+### Second Wave Immigration, 1880-1920
+
+- Angel Island
+- Ellis Island
+
+### Nativist Reaction
+
+- Accused the new immigrants of being a threat to their jobs and way of life (xenophobia)
+
+### Chinese Exclusion Act, 1882
+
+- First significant law restricting immigration into the US
+- 10 year moratorium on Chinese immigration
+- No Chinese person could become a naturalized citizen
+- Enacted because it "endangered the good order of certain localities"
+- US v. Wong Kim Ark, 1898
+    - US born Chinese man denied re-entry after visiting China
+    - Supreme Court allows him to return home under the 14th amendment
+
+### Growth of Cities
+
+- Factories in the large cities provided jobs
+- Families often lived in harsh conditions, crowded into **tenements** and slums
+- Jacob Riis
+    - "How the Other Half Lives"
+
+### Beginning of Reform
+
+- **Hull House, Chicago, 1889**
+- Gave assistance to immigrants
+    - Daycare and nursery
+    - Secondary and college-level extension classes
+    - Evening classes on civil rights and civic duties
+- Hull house associates were instrumental in the enactment of:
+    - State child labor laws
+    - Juvenile courts
+    - Juvenile protection agencies
+- Also contributed to the woman suffrage movement
+
+### Henry Street Settlement, NYC, 1893
+
+- Lillian Wald
+- Nurse & social worker, one of the founding member of the NAACP
+- Creating the Visiting Nurse Service
+- Taught hygiene and home nursing class to immigrants
+- By 1894 she visited tenement families
+- Offered:
+    - English classes for immigrants
+    - A savings bank
+    - Vocational training
+    - Public lectures
+    - A library
+    - Various clubs and activities
+
+### Social Gospel Movement
+
+- Christianity could be an engine of social and economic reform
+- Society can evolve positively with salvation, personal growth, and social justice
+- Walter Rauschenbusch
+- Motivated churches and ministers to take an active role in helping the poor
