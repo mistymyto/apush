@@ -379,3 +379,77 @@
 - Society can evolve positively with salvation, personal growth, and social justice
 - Walter Rauschenbusch
 - Motivated churches and ministers to take an active role in helping the poor
+
+## Politics
+
+### City Politics
+
+- <ins>Political Machines</ins> - organized groups of politicians, the boss at the top
+- Provided immigrants with some welfare (housing, food, clothing, jobs) in exchange for their votes
+- "Boss": top politician who gave orders & jobs to supporters
+- Goal: to make money for the boss and create jobs in city government for the support of the machine
+
+### "Boss" Tweed
+
+- William Tweed boss of the **Tammany Hall** political machine
+- NYC
+- Stole money from the cities and gained power by:
+    - Submitting false bills for work that was never done
+    - Hiring friends in exchange for favors
+    - Bribing politicians
+    - Hiring their own companies to do government work
+    - Appointing election inspectors to tamper with voting results
+- Controlled the police and courts as well as many business operations
+- Tweed Courthouse
+    - New York taxpayers were charged $11 million dollars this $3 million project
+    - Thomas Nast Cartoons
+
+### Presidential politics
+
+- Congress divided almost evenly
+- Parties avoided taking a stand on major issues
+- *Very little involvement*
+    - Subsidies to railroads - encourage their growth
+    - Civil War pensions - $ for veterans (Grand Army of the Republic)
+    - Appointing civil servants - positions in the federal government
+        - Roughly 4000 politically appointed positions in the executive branch
+        - Party Patronage/Spoils System
+
+### The "Forgotten" Presidents
+
+- James Garfield
+    - Republican, death in 1881
+    - Appointed Half Breeds for most of the 100000 federal jobs
+    - Charles Guiteau
+        - "I am a stalwart of stalwarts"
+- Chester A. Arthur
+    - Republican, 1881-85
+    - <ins>Pendleton Civil Service Act</ins>
+        - Created the Civil Service Commission
+        - Set aside 15% of government jobs to be determined through an exam
+- Grover Cleveland
+    - Democrat, 1885-89
+    - Limited government
+    - Interstate Commerce Act, 1887
+        - Railroads, first industry subject to Federal regulation
+        - Railroads must set "fair and just" rates
+    - Proposed lower tariff rates
+        - Tariffs the first real issue in years
+        - Makes Cleveland unpopular
+- Benjamin Harrison
+    - Republican, 1889-93
+    - <ins>Sherman Anti-trust Act, 1890</ins>
+        - Vaguely worded and enforced
+        - Any trust that "restrained trade" was illegal
+- Grover Cleveland 2
+    - 1893-97
+    - Populist Party
+
+### Division in the Republican Party
+
+- Stalwarts
+    - A group that strongly supported continuation of the current spoils system
+    - Roscoe Conkling
+- Half-Breeds
+    - Advocated for some measure of civil service reform
+    - James G. Blaine
