@@ -155,13 +155,13 @@
     - Faster production
     - Highly skilled workers not needed
     - Workers are interchangable
-
-### New Inventions
-
-- Henry Ford - Ford Model T
+- Henry Ford
+    - Ford Model T
     - Assembly Line manufacturing
-- Alexander Graham Bell - Telephone, 1876
-- Thomas Edison - Incandescent Light Bulb, 1879
+- Alexander Graham Bell
+    - Telephone, 1876
+- Thomas Edison
+    - Incandescent Light Bulb, 1879
 
 ### Trust - Monopoly
 
