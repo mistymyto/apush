@@ -400,7 +400,7 @@
         - Appointing election inspectors to tamper with voting results
     - Controlled the police and courts as well as many business operations
     - Tweed Courthouse
-        - New York taxpayers were charged $11 million dollars this $3 million project
+        - Taxpayers were charged $11 mil for the $3 mil project
     - Thomas Nast Cartoons
 
 ### Presidential politics
