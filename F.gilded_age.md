@@ -389,8 +389,9 @@
     - "Boss" - top politician who gave orders & jobs to supporters
     - Make money for the boss and create jobs in city government for the machine's support
 - "Boss" Tweed
-    - William Tweed boss of the **Tammany Hall** political machine
-    - NYC
+    - William Tweed
+        - Boss of the **Tammany Hall** political machine
+        - NYC
     - Stole money from the cities and gained power by:
         - Submitting false bills for work that was never done
         - Hiring friends in exchange for favors
