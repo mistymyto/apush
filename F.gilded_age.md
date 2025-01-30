@@ -197,24 +197,21 @@
 - Injuries were common and severe
     - Limited compensation from owners
 
-### Women in the Workforce
+### Workers
 
-- Went to work to supplement the low wages of their husbands
-- 17% in the workforce, 20% under the age of 25 in 1900s
-- $6-8 a week, $314 a year
-
-### Children in the Workforce
-
-- 17 mil children under 16 working in 1900
-- 60% worked in agriculture for 12 hrs
-- Factory work is 10 hr days under 10 yrs old
-- 38 states pass child labor laws with limited impact
-
-### Company towns
-
-- Town where all stores and housing are owned by a company that is also the main employer
-- Often planned with amenities such as stores, churches, schools, markets, etc.
-- All rent and other fees woould be paid directly to the company
+- Women in the Workforce
+    - Went to work to supplement the low wages of their husbands
+    - 17% in the workforce, 20% under the age of 25 in 1900s
+    - $6-8 a week, $314 a year
+- Children in the Workforce
+    - 17 mil children under 16 working in 1900
+    - 60% worked in agriculture for 12 hrs
+    - Factory work is 10 hr days under 10 yrs old
+    - 38 states pass child labor laws with limited impact
+- Company towns
+    - Where all buildings are owned by a company that is also the employer
+    - Often planned with amenities such as stores, churches, schools, markets, etc.
+    - All rent and other fees woould be paid directly back
 
 ### Social Darwinism
 
@@ -326,23 +323,19 @@
 - Nativist Reaction
     - Accused the new immigrants of being a threat to their jobs and way of life
     - Xenophobia
-
-### Chinese Exclusion Act, 1882
-
-- First significant law restricting immigration into the US
-- 10 year moratorium on Chinese immigration
-- No Chinese person could become a naturalized citizen
-- Enacted because it "endangered the good order of certain localities"
-- US v. Wong Kim Ark, 1898
-    - US born Chinese man denied re-entry after visiting China
-    - Supreme Court allows him to return home under the 14th amendment
-
-### Growth of Cities
-
-- Factories in the large cities provided jobs
-- Families often lived in harsh conditions, crowded into **tenements** and slums
-- Jacob Riis
-    - "How the Other Half Lives"
+    - Chinese Exclusion Act, 1882
+        - First significant law restricting immigration into the US
+        - 10 year moratorium on Chinese immigration
+        - No Chinese person could become a naturalized citizen
+        - Enacted because it "endangered the good order of certain localities"
+    - US v. Wong Kim Ark, 1898
+        - US born Chinese man denied re-entry after visiting China
+        - Supreme Court allows him to return home under the 14th amendment
+- Growth of Cities
+    - Factories in the large cities provided jobs
+    - Families often lived in harsh conditions, crowded into **tenements** and slums
+    - Jacob Riis
+        - "How the Other Half Lives"
 
 ### Beginning of Reform
 
@@ -372,7 +365,7 @@
     - A library
     - Various clubs and activities
 
-### Social Gospel Movement
+## Social Gospel Movement
 
 - Christianity could be an engine of social and economic reform
 - Society can evolve positively with salvation, personal growth, and social justice
@@ -447,8 +440,10 @@
 ### Division in the Republican Party
 
 - Stalwarts
+    - "Loyal, hard working people"
     - A group that strongly supported continuation of the current spoils system
     - Roscoe Conkling
 - Half-Breeds
+    - Provocative term for mixed race people
     - Advocated for some measure of civil service reform
     - James G. Blaine
