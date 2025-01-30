@@ -161,23 +161,23 @@
     - Thomas Edison
         - Incandescent Light Bulb, 1879
 
-### Trust - Monopoly
+### Trust/Monopoly
 
 - The creation of large empires in many areas of business will lead to monopolies
 - One business having control over their industry
 - NO competition
-- Large business owners believed free enterprise and competition harms American business
+- Large business owners believed competition harms American business
 - Economic power concentrated in the hands of a few
 - How they work:
-    1. **Horizontal integration**
+    - **Horizontal integration**
         - Controls product's production
         - A company buys its competitors
         - Eliminated wast and kept prices low
-    3. **Vertical integration**
+    - **Vertical integration**
         - Controls both the production & distribution
         - Controls every stage of industrial process
-            - Mining the raw materials to transporting the finished product
-            - Cut costs and prices and gained efficiency
+        - Mining the raw materials to transporting the finished product
+        - Cut costs and prices and gained efficiency
 - Monopolists
     - **Cornelius Vanderbilt**, Steamships & Railroads
     - **Andrew Carnegie**, steel (Carnegie Steel Co.)
