@@ -1,11 +1,11 @@
 # The Gilded Age
 
-- Period between Reconstruction & WWI in which the U.S. experienced rapid economic growth:
+- Between Reconstruction-WWI in which the US's economy grew rapidly:
     - Industrialization
     - New techs
     - Westward migration
     - Growth of large businesses
-- Also with not-so-good things:
+- "Gilded":
     - Wealth inequality
     - Poor working conditions
     - Poor living conditions
@@ -16,7 +16,7 @@
 - Federal government played a large role
 - "Frontier Thesis" (1893)
     - Frederick Jackson Turner
-    - Qualities needed for life in the West became the quintessential American qualities
+    - Qualities needed for life in the US West became quintessential
     - Individualism
     - Nationalism
     - Democracy
@@ -112,10 +112,10 @@
 
 ### Dawes Severalty Act, 1887
 
-- Authorized the federal government to break up tribal lands by partitioning them into individual plots
+- Authorized the federal government to individually break up tribal lands
 - Only Native Americans who accepted it were allowed to be US citizens
-- <u>Objective</u>: to assimilate Native Americans into mainstream US society by annihilating their cultural and social traditions
-- <u>Result</u>: over 90 million acres of tribal land were stripped from Native Americans and sold to non-natives
+- It is to assimilate Native Americans into mainstream US society
+- Over 90 mil acres of tribal land were sold to non-natives
 
 ## 2nd Industrial Revolution
 
@@ -168,7 +168,7 @@
 - The creation of large empires in many areas of business will lead to monopolies
 - One business having control over their industry
 - NO competition
-- Large business owners believed free enterprise and competition were detrimental to American business
+- Large business owners believed free enterprise and competition harms American business
 - Economic power concentrated in the hands of a few
 - How they work:
     1. **Horizontal integration**
@@ -228,7 +228,7 @@
 
 - ***Gospel of Wealth*** by Andrew Carnegie
     - The "Protestant work ethic" would bring wealth
-    - Wealthy had a God-given responsibility to carry out philanthropy and better their community
+    - Wealthy had a God-given responsibility to carry out philanthropy
 - ***Sink or Swim*** by Horatio Alger
     - Books about boys who became rich through hard work, honesty, and a 'little' luck
     - Financial success often due to the parents wealth
@@ -238,7 +238,7 @@
 ### The Great Railroad Strike, 1877
 
 - Workers protesting a pay cut "walked out"
-- Affected traffic throughout the country so badly state militias were called to force the protesters back to work
+- Affected traffic throughout the country so badly state militias were called
 - Troops fired into the crowd at Pittsburg, killing 20
 - Workers responded by destroying rail yards
 - Millions of damage was done
@@ -326,7 +326,8 @@
 
 ### Nativist Reaction
 
-- Accused the new immigrants of being a threat to their jobs and way of life (xenophobia)
+- Accused the new immigrants of being a threat to their jobs and way of life
+- Xenophobia
 
 ### Chinese Exclusion Act, 1882
 
