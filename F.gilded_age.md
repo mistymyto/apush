@@ -311,23 +311,21 @@
 - Overcrowding and joblessness in European cities
 - Religious persecution of Jews in Russia
 - Reputation of US as a land of opportunity with religious & political freedom
-- <ins>Waves of Immigration<ins>
+- **Waves of Immigration**
     - "Old" - northern and western Europe
         - Before 1887
         - High literacy, generally Protestant, skilled, interested in farming
-    - "New" - eastern and southern Europe, Asia
+    - "New" - eastern and southern Europe & Asia
         - After 1887
-        - Illiterate, often unorthodox religions, few skills, settled in cities
+        - Illiterate, often different religions, few skills, settled in cities
 
 ### Second Wave Immigration, 1880-1920
 
 - Angel Island
 - Ellis Island
-
-### Nativist Reaction
-
-- Accused the new immigrants of being a threat to their jobs and way of life
-- Xenophobia
+- Nativist Reaction
+    - Accused the new immigrants of being a threat to their jobs and way of life
+    - Xenophobia
 
 ### Chinese Exclusion Act, 1882
 
@@ -385,24 +383,23 @@
 
 ### City Politics
 
-- <ins>Political Machines</ins> - organized groups of politicians, the boss at the top
-- Provided immigrants with some welfare (housing, food, clothing, jobs) in exchange for their votes
-- "Boss": top politician who gave orders & jobs to supporters
-- Goal: to make money for the boss and create jobs in city government for the support of the machine
-
-### "Boss" Tweed
-
-- William Tweed boss of the **Tammany Hall** political machine
-- NYC
-- Stole money from the cities and gained power by:
-    - Submitting false bills for work that was never done
-    - Hiring friends in exchange for favors
-    - Bribing politicians
-    - Hiring their own companies to do government work
-    - Appointing election inspectors to tamper with voting results
-- Controlled the police and courts as well as many business operations
-- Tweed Courthouse
-    - New York taxpayers were charged $11 million dollars this $3 million project
+- **Political Machines**
+    - organized groups of politicians, the boss at the top
+    - Provided immigrants with housing, food, clothing, & jobs for votes
+    - "Boss" - top politician who gave orders & jobs to supporters
+    - Make money for the boss and create jobs in city government for the machine's support
+- "Boss" Tweed
+    - William Tweed boss of the **Tammany Hall** political machine
+    - NYC
+    - Stole money from the cities and gained power by:
+        - Submitting false bills for work that was never done
+        - Hiring friends in exchange for favors
+        - Bribing politicians
+        - Hiring their own companies to do government work
+        - Appointing election inspectors to tamper with voting results
+    - Controlled the police and courts as well as many business operations
+    - Tweed Courthouse
+        - New York taxpayers were charged $11 million dollars this $3 million project
     - Thomas Nast Cartoons
 
 ### Presidential politics
