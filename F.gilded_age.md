@@ -36,13 +36,16 @@
 
 ### Waves of Settlement
 
-- 1st wave - Miners
+- 1st wave
+    - Miners
     - 1859, Pike's Peak, CO for gold
     - 1859, Comstock Lode, NV for silver
-- 2nd wave- Cattle ranchers
+- 2nd wave
+    - Cattle ranchers
     - Cowboys
     - Mostly Mexican or African American
-- 3rd wave - Farmers
+- 3rd wave
+    - Farmers
     - "Sodbusters"
 
 ### Homesteaders
@@ -76,13 +79,11 @@
 - <u>Bureau of Indian Affairs<u> which manages reservations
     - Those did not know American Indian or respect their Indian culture
     - Managed the reservations without considering needs of the Indians
-
-### Buffalos
-
-- Used as a source of food in mine and railroad workers
-- Demand for hides in the east
-- Bureau of Indian Affairs saw buffalos as a way to control tribes
-- 1865 to 1875 the herd declined from 15 mil to <1000
+    - Buffalos
+        - Used as a source of food in mine and railroad workers
+        - Demand for hides in the east
+        - Bureau of Indian Affairs saw buffalos as a way to control tribes
+        - 1865-1875 the herd declined from 15 mil to <1000
 
 ### Indian Wars
 
@@ -96,18 +97,14 @@
     - Massacre of nearly 300 Lakotas by the US army
     - US Army fired into the Native crowd
     - More than 250 men, women, and children of Lakota killed & 51 wounded
-
-### Chief Joseph
-
-- Nez Percé chief who faced settlement by whites in Oregon
-- Led his followers in an effort to move to canada
-- Finally surrounded and forced to relocated to a reserve on Oklahoma
-
-### Helen Hunt Jackson
-
-- ***A Century of Dishonor***
+- **Chief Joseph**
+    - Nez Percé chief who faced settlement by whites in Oregon
+    - Led his followers in an effort to move to canada
+    - Finally surrounded and forced to relocated to a reserve on Oklahoma
+- Helen Hunt Jackson
+    - ***A Century of Dishonor***
     - Documented corruption of Indian agents, gov't officials & settlers in reservations
-- Representatives ignored her petitions
+    - Representatives ignored her petitions
     - Americans continued to view Indians as uncivilized people
 
 ### Dawes Severalty Act, 1887
