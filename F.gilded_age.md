@@ -38,8 +38,8 @@
 
 - 1st wave
     - Miners
-    - 1859, Pike's Peak, CO for gold
-    - 1859, Comstock Lode, NV for silver
+    - Gold in Pike's Peak, CO, 1859
+    - Silver in Comstock Lode, NV, 1859
 - 2nd wave
     - Cattle ranchers
     - Cowboys
@@ -106,13 +106,11 @@
     - Documented corruption of Indian agents, gov't officials & settlers in reservations
     - Representatives ignored her petitions
     - Americans continued to view Indians as uncivilized people
-
-### Dawes Severalty Act, 1887
-
-- Authorized the federal government to individually break up tribal lands
-- Only Native Americans who accepted it were allowed to be US citizens
-- It is to assimilate Native Americans into mainstream US society
-- Over 90 mil acres of tribal land were sold to non-natives
+- Dawes Severalty Act, 1887
+    - Authorized the federal government to individually break up tribal lands
+    - Only Native Americans who accepted it were allowed to be US citizens
+    - It is to assimilate Native Americans into mainstream US society
+    - Over 90 mil acres of tribal land were sold to non-natives
 
 ## 2nd Industrial Revolution
 
@@ -445,3 +443,47 @@
     - Provocative term for mixed race people
     - Advocated for some measure of civil service reform
     - James G. Blaine
+
+## Rise of the Populist Party
+
+- Overproduction of farmers
+- Agrarian Malaise
+    - Farmers had long term debt, fixed payments
+    - Dependence on automation made it difficult to continue farming
+-Free Silver Movement
+    - "Crime of 1873," gov't stopped the coinage of silver
+    - Acess to silver was higher than gold
+    - Farmers remained impoverished
+    - Farm prices decline
+    - Farmers demanded that the money supply be expanded & silver be coined
+        - Issue that farmers could organize around
+
+### Farmers Organizations
+
+- National Grange of the Patrons of Husbandry
+    - Oliver Kelly, founder
+    - Advocated for "Granger laws" to regulate railroads
+    - "Grange/Granger," "We feed you all"
+- Farmers Alliance
+    - Mary Elizabeth Lease, founder
+    - "Raise less corn and more hell"
+- **The Populist (People's) Party, 1890s**
+    - Third party that represented interests of farmers and laborers
+    - **Leaders:**
+        - Mary E. Lease
+        - James B. Weaver
+    - **Issues:**
+        - Growing discontent with isolated rural life
+        - Middlemen in crop market took much of farmer's profits
+        - High railroad rates
+        - No assistance for farmers in need
+
+### Omaha Platform
+
+- Unlimited coinage of silver
+- Graduated income tax
+    - More riches, more taxes
+- Gov't control of railroads and telecom
+- Federal loans to agriculture & stable prices
+- Direct election of Senators (more democracy)
+- An 8hr workday for industrial workers
