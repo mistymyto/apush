@@ -58,3 +58,11 @@
     - The Pure Food and Drug, 1906
         - Food and Drug Administration (FDA)
         - Required that ingredients be placed on food/drug labels
+
+## Women
+
+- Jovita Idar
+    - Mexican-American journalist, nurse, activist, and suffragist
+    - <ins>First Mexican Cogress</ins>
+        - Discrimination in education
+        - Lack of economic resources
