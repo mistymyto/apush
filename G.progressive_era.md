@@ -68,13 +68,40 @@
         - Lack of economic resources
     - Wrote for *La Crónica* and *El Progreso*
         - Fair treatment of Mexican-Americans, women's suffrage, & anti-discrimination policies in Texas
-- Women's Clubs
-    - Began as a social outlet for middle-upper class women
-    - Became a forum to discuss social and political issues
-    - Passage of state laws that regulated:
-        - Child labor
-        - Inspection of working conditions
-        - Regulation of food & drug industries and prohibition
-    - Women's Trade Union League
-    - National Association of Colored Women (NACW)
-    - National American Woman Suffrage Association (NAWSA)
+
+### Women's Clubs
+
+- Began as a social outlet for middle-upper class women
+- Became a forum to discuss social and political issues
+- Passage of state laws that regulated:
+    - Child labor
+    - Inspection of working conditions
+    - Regulation of food & drug industries and prohibition
+- Women's Trade Union League
+- National Association of Colored Women (NACW)
+- National American Woman Suffrage Association (NAWSA)
+    - Carrie Chapman Catt
+    - Tactics:
+        - Lobbying
+        - Marches
+        - Picketing/demonstrations
+        - Publishing editorials
+    - Excluded African American women at the national level
+- National Woman's Party, 1916
+    - Branched from NAWSA
+    - Alice Paul
+    - Focused on adding a suffrage amendment to the Constitution
+    - Tactics:
+        - Aggressive agitation
+        - Relentless lobbying, publicity stunts
+        - Civil disobedience and nonviolent confrontation
+
+### Silent Sentinels
+
+- Silent piketting of the White House organized by the NWP
+- Protect until the passage of a suffrage amendment
+- First group ever to protest in front of the White House
+- Jan 191 - Jun 25, 1919
+    - Silently stood outside the White House 6d/wk
+    - Many arrested including Alice Paul
+    - 19th Amendment was adopted on Aug 26, 1920
