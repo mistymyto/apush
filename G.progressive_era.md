@@ -59,10 +59,22 @@
         - Food and Drug Administration (FDA)
         - Required that ingredients be placed on food/drug labels
 
-## Women
+## Women & Reform
 
 - Jovita Idar
     - Mexican-American journalist, nurse, activist, and suffragist
     - <ins>First Mexican Cogress</ins>
         - Discrimination in education
         - Lack of economic resources
+    - Wrote for *La Crónica* and *El Progreso*
+        - Fair treatment of Mexican-Americans, women's suffrage, & anti-discrimination policies in Texas
+- Women's Clubs
+    - Began as a social outlet for middle-upper class women
+    - Became a forum to discuss social and political issues
+    - Passage of state laws that regulated:
+        - Child labor
+        - Inspection of working conditions
+        - Regulation of food & drug industries and prohibition
+    - Women's Trade Union League
+    - National Association of Colored Women (NACW)
+    - National American Woman Suffrage Association (NAWSA)
