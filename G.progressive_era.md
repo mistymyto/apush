@@ -105,3 +105,40 @@
     - Silently stood outside the White House 6d/wk
     - Many arrested including Alice Paul
     - 19th Amendment was adopted on Aug 26, 1920
+
+## Racial Equality
+
+- Charles Eastman (Ohíye S'a)
+    - American writer & social reformer
+    - Among the first Native Americans to be certified in Western medicine
+    - <ins>Advocated for Indian rights</ins>
+        - He served as a lobbyist for the Santee Sioux
+        - Co-founder of the Society of American Indians (SAI)
+        - Established 32 Indian groups of the YMCA
+        - Published 11 books on Native American culture
+- Booker T. Washington
+    - Most influential African American at the turn of the century
+    - Pragmatically stressed economic equality as the path to social equality
+    - Vocational education
+        - African Americans should learn skills for better wages
+        - Secure economic base would lead to goals of political and social equality
+    - Accept segregation
+    - "Atlanta Compromise" Speech, 1895
+- W.E.B. Du Bois
+    - Most influential voice for full equality for African Americans
+    - Harvard PhD, distinguished scholar and writer, *Souls of Black Folk*, 1903
+    - Demanded equal civil rights as a prerequisite for economic independence, idealist
+    - Talented tenth of the black community must lead for equality
+    - Helped form NAACP in 1909
+
+### Black Civil Rights Organizations
+
+- **Niagara Movement**, 1905
+    - Meeting of African American intellectuals in Niagara Falls, Canada
+    - Program of protest and action aimed at securing equal rights
+    - Led by WEB Du Bois, many whites also attended and involved
+- **NAACP**, 1908
+    - Rejected B.T. Washington's "gradualism"
+    - Original mission
+        - To abolish segregation and increase ed opportunities for African Americans
+    - Use federal courts and seek immediate restoration of rights
