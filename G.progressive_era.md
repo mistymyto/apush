@@ -174,4 +174,28 @@
     - Mediated both sides of the Coal Strike, 1902
         - Agreed that a federal commission will regulate coal industry
         - Shift in federal power from "strike-breaker" to strike mediator
-        - 
+- William Howard Taft
+    - Hand-picked by Roosevelt to be his successor
+    - Supported by Progressives, Conservatives, and Republicans
+    - Became Supreme Court justice
+    - Continued Roosevelt's Progressive policies
+
+    | Control Businesses                                      | Conservation                                                   |
+    | ------------------------------------------------------- | -------------------------------------------------------------- |
+    | "Trust-Buster" - 2x Teddy Roosevelt & broke up US Steel | Bureau of Mines - Added federal oil lands                      |
+    | Mann-Elkins Act, 1910 - Congress oversees telecom lines | Added large tracts in Appalachains to national forest reserves |
+
+    - Pinchot-Ballinger controversy
+    - Taft fires Chief Justice of the Forest Service for criticising him opening lands closed for reservation
+    - Roosevelt believes that he betrayed the ethics of conservation and had to be ousted
+- Woodrow Wilson
+    - "New Freedom"
+
+    | Tariffs                                   | Banking                                                                     | Trusts                                                           |
+    | ----------------------------------------- | --------------------------------------------------------------------------- | ---------------------------------------------------------------- |
+    | Underwood Tariff - lowered tariffs        | **Federal Reserve Board** - National banking system, regulated by the gov't | Clayton Antitrust Act, 1914 - Strengthened Sherman Antitrust Act |
+    | **16th Amendment** - graduated income tax | /                                                                           | /                                                                |
+
+## IDK
+
+- Yay
