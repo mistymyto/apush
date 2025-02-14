@@ -142,3 +142,31 @@
     - Original mission
         - To abolish segregation and increase ed opportunities for African Americans
     - Use federal courts and seek immediate restoration of rights
+
+## Presidents
+
+### Prologue
+
+- William Jennings Bryan
+    - Cowardly lion in Wizard of Oz
+    - Democrat, 1896 election
+    - "**Cross of Gold**" speech
+    - Incorporated Populist ideas into the Democrat Party
+- William McKinley
+    - Republican, supported the gold standard & free market
+    - **Front Porch Campaign**
+    - Wealthy bankers and businessmen campaign on his behalf
+    - Wins election of 1896
+
+### Start of Progressive Presidents
+
+- Theodore Roosevelt
+    - Believed in the power of an informed public to battle business corruption
+    - Boost for the Progressive movement
+    - "Conservative Progressivism"
+    - "Square Deal"
+
+    | Control Businesses                                            | Consumer Protection                         | Convervation |
+    | ------------------------------------------------------------- | ------------------------------------------- | ------------ |
+    | "Trust Busting" both good and bad trusts                      | Neill-Reynolds Report - Meat Inspection Act |  |
+    | Hepburn Act - Strengthened the Interstate Commerce Commission | 
