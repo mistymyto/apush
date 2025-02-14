@@ -165,10 +165,8 @@
     - Boost for the Progressive movement
     - "Conservative Progressivism"
     - "Square Deal"
----
     | Control Businesses                                            | Consumer Protection                         | Convervation                        |
     | ------------------------------------------------------------- | ------------------------------------------- | ----------------------------------- |
     | "Trust Busting" both good and bad trusts                      | Neill-Reynolds Report - Meat Inspection Act | 5 National Parks                    |
     | Hepburn Act - Strengthened the Interstate Commerce Commission | Pure Food and Drug Act                      | 4 National Monuments (Grand Canyon) |
----
     - Mediated both sides of the Coal Strike, 1902
