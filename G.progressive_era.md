@@ -194,8 +194,15 @@
     | Tariffs                                   | Banking                                                                     | Trusts                                                           |
     | ----------------------------------------- | --------------------------------------------------------------------------- | ---------------------------------------------------------------- |
     | Underwood Tariff - lowered tariffs        | **Federal Reserve Board** - National banking system, regulated by the gov't | Clayton Antitrust Act, 1914 - Strengthened Sherman Antitrust Act |
-    | **16th Amendment** - graduated income tax | /                                                                           | /                                                                |
+    | **16th Amendment** - graduated income tax |||
 
-## IDK
+## Reforms & Legislation
 
-- Yay
+### National Reforms
+
+- Secret (Australian) Ballot, 1910
+- Direct primaries
+    - Nominating party candidates by direct vote, 1915
+- Direct election of US Senators
+    - 17th Amendment
+    - No longer chosen by state legislatures
