@@ -194,8 +194,29 @@
     | Tariffs                                   | Banking                                                                     | Trusts                                                           |
     | ----------------------------------------- | --------------------------------------------------------------------------- | ---------------------------------------------------------------- |
     | Underwood Tariff - lowered tariffs        | **Federal Reserve Board** - National banking system, regulated by the gov't | Clayton Antitrust Act, 1914 - Strengthened Sherman Antitrust Act |
-    | **16th Amendment** - graduated income tax | /                                                                           | /                                                                |
+    | **16th Amendment** - graduated income tax |||
 
-## IDK
+## Reforms & Legislation
 
-- Yay
+### National Reforms
+
+- Secret (Australian) Ballot, 1910
+- Direct primaries
+    - Nominating party candidates by direct vote, 1915
+- Direct election of US Senators
+    - 17th Amendment
+    - No longer chosen by state legislatures
+- Prohibition
+    - **Women's Christian Temperance Union**
+        - WCTU successfully convinced many women they had a responsibility to improve society by working for prohibition
+    - **Anti-Saloon League**, 1893
+        - Sought the legal abolitions of saloons
+    - **18th Amendment**
+        - Prohibition of the sale, manufacture, and transportation of alcohol, 1920
+- <ins>State Reforms</ins>
+    - Initiative - "direct legislation"
+        - Voters submit new laws directly to the legislatures
+    - Referendum
+        - Actions of the legislature could be returned to the electorate
+    - Recall
+        - Voters could reove a corrupt or unsatisfactory politician by majority vote before their term expired
