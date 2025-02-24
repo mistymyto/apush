@@ -188,8 +188,8 @@
 
 - Cont.
     - Pinchot-Ballinger controversy
-    - Taft fires Chief Justice of the Forest Service for criticising him opening lands closed for reservation
-    - Roosevelt believes that he betrayed the ethics of conservation and had to be ousted
+        - Taft fires Chief Justice of the Forest Service for criticising him opening lands closed for reservation
+        - Roosevelt believes that he betrayed the ethics of conservation and had to be ousted
 - Woodrow Wilson
     - "New Freedom"
 
