@@ -184,7 +184,7 @@
 | Control Businesses | Conservation |
 | --- | --- |
 | "Trust-Buster": 2x Teddy Roosevelt & broke up US Steel | Bureau of Mines: Added federal oil lands |
-| Mann-Elkins Act, 1910: Congress oversees telecom lines | Added large tracts in Appalachains to national forest reserves |
+| Mann-Elkins Act, 1910: Congress oversees telecom lines | Added large tracts in Appalachians to national forest reserves |
 
 - Cont.
     - Pinchot-Ballinger controversy
