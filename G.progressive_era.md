@@ -215,10 +215,12 @@
         - Sought the legal abolitions of saloons
     - **18th Amendment**
         - Prohibition of the sale, manufacture, and transportation of alcohol, 1920
-- <ins>State Reforms</ins>
-    - Initiative - "direct legislation"
-        - Voters submit new laws directly to the legislatures
-    - Referendum
-        - Actions of the legislature could be returned to the electorate
-    - Recall
-        - Voters could reove a corrupt or unsatisfactory politician by majority vote before their term expired
+
+### State Reforms
+
+- Initiative - "direct legislation"
+    - Voters submit new laws directly to the legislatures
+- Referendum
+    - Actions of the legislature could be returned to the electorate
+- Recall
+    - Voters could reove a corrupt or unsatisfactory politician by majority vote before their term expired
