@@ -166,10 +166,10 @@
     - "Conservative Progressivism"
     - "Square Deal"
     
-    | Control Businesses                                            | Consumer Protection                         | Convervation                        |
-    | ------------------------------------------------------------- | ------------------------------------------- | ----------------------------------- |
-    | "Trust Busting" both good and bad trusts                      | Neill-Reynolds Report - Meat Inspection Act | 5 National Parks                    |
-    | Hepburn Act - Strengthened the Interstate Commerce Commission | Pure Food and Drug Act                      | 4 National Monuments (Grand Canyon) |
+    | Control Businesses | Consumer Protection | Convervation |
+    | --- | --- | --- |
+    | "Trust Busting" both good and bad trusts | Neil-Reynolds Report: Meat Inspection Act | 5 National Parks |
+    | Hepburn Act: Strengthened the Interstate Commerce Commission | Pure Food and Drug Act | 4 National Monuments |
     
     - Mediated both sides of the Coal Strike, 1902
         - Agreed that a federal commission will regulate coal industry
@@ -180,10 +180,10 @@
     - Became Supreme Court justice
     - Continued Roosevelt's Progressive policies
 
-    | Control Businesses                                      | Conservation                                                   |
-    | ------------------------------------------------------- | -------------------------------------------------------------- |
-    | "Trust-Buster" - 2x Teddy Roosevelt & broke up US Steel | Bureau of Mines - Added federal oil lands                      |
-    | Mann-Elkins Act, 1910 - Congress oversees telecom lines | Added large tracts in Appalachains to national forest reserves |
+    | Control Businesses | Conservation |
+    | --- | --- |
+    | "Trust-Buster": 2x Teddy Roosevelt & broke up US Steel | Bureau of Mines - Added federal oil lands |
+    | Mann-Elkins Act, 1910: Congress oversees telecom lines | Added large tracts in Appalachains to national forest reserves |
 
     - Pinchot-Ballinger controversy
     - Taft fires Chief Justice of the Forest Service for criticising him opening lands closed for reservation
@@ -191,10 +191,10 @@
 - Woodrow Wilson
     - "New Freedom"
 
-    | Tariffs                                   | Banking                                                                     | Trusts                                                           |
-    | ----------------------------------------- | --------------------------------------------------------------------------- | ---------------------------------------------------------------- |
-    | Underwood Tariff - lowered tariffs        | **Federal Reserve Board** - National banking system, regulated by the gov't | Clayton Antitrust Act, 1914 - Strengthened Sherman Antitrust Act |
-    | **16th Amendment** - graduated income tax |||
+    | Tariffs | Banking | Trusts |
+    | --- | --- | --- |
+    | Underwood Tariff - lowered tariffs | **Federal Reserve Board**: National banking system regulated by the gov't | Clayton Antitrust Act, 1914: Strengthened Sherman Antitrust Act |
+    | **16th Amendment**: graduated income tax |||
 
 ## Reforms & Legislation
 
