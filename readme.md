@@ -9,3 +9,5 @@ Too lazy to copy notes on paper?
 You are lucky because I have a solution for you! Introducing...my github repo with all the notes!
 
 If you want to actually get the notes, remember to download them on your local computer.
+
+![License](https://img.shields.io/badge/license-CC%20BY%204.0-blue.svg)
