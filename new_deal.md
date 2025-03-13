@@ -4,3 +4,8 @@
 - Aid for the unemployed
 - Balance budgets
 - Emphasized progressive reforms
+- Expanded the size of the federal governments
+    - Around 25 pieces of landmark legislation
+    - Social security
+    - FDIC
+    - CCC
