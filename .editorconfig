@@ -1,9 +1,7 @@
-# EditorConfig is awesome: https://editorconfig.org
-
-# top-most EditorConfig file
+# Editorconfig for Github
 root = true
 
-# Unix-style newlines with a newline ending every file
+# Global Configurations
 [*]
 end_of_line = lf
 insert_final_newline = false
