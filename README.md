@@ -1,5 +1,5 @@
 # APUSH
-This repository is a collection of my notes taken in 2024-25 uploaded to Github for portability
+This repository is a collection of my notes taken in 2024-25 uploaded to Github for portability.
 
 ## Types of notes
 - **Timelines**: the gist of eras, like major events, people, causation and continuity, etc.
