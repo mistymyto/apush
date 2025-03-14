@@ -1,0 +1,11 @@
+# Demagogues
+- <ins>Huey P. Long</ins>
+    - "Share Our Wealth Plan"
+        - Redistribute wages from the wealthy to other citizens
+        - $5,000 to every family
+        - Reduction in work hours
+        - Bonuses to veterans
+- <ins>Francis E. Townsend</ins>
+    - Assistance for older Americans
+        - 2% sales tax create a fund for all Americans over 60
+        - $200 a month which had to be spent that month
