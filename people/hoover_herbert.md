@@ -1,4 +1,13 @@
 # Herbert Hoover
 - Republican President during the great depression
 - Self-made man
-    - **Ruged Individualism**: the people can help themselves without government intervention
+- Policies
+    - **Rugged Individualism**: the people can help themselves without government intervention
+    - Maintain gold standard
+    - Increase tariffs
+    - [Hawley-Smoot Tariff](../concepts/hawley-smoot.md)
+- Received significant backlash from lower and middle class
+    - Lead the creation of "Hooverville"
+    - Ended the [Bonus March](../events/bonus_march.md) with military actions
+    - Prioritized large businesses over civilians
+- Lost to [Franklin D. Roosevelt](roosevelt_franklin.md) in the election of 1923
