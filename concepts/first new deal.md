@@ -1,5 +1,5 @@
-# The New Deal
-- Proposed by Franklin Roosevelt
+# The First New Deal
+- Proposed by Franklin Roosevelt in his first term
 - Repeal of Prohibition
 - Aid for the unemployed
 - Balance budgets
