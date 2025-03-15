@@ -8,14 +8,14 @@
     - DJIA pluging 11% in heavy trading
 ## Causes
 - Buying on margin
-        - Buying stocks with loan
-        - People owe money to their brokers
-        - Banks rapidly lost money
+    - Buying stocks with loan
+    - People owe money to their brokers
+    - Banks rapidly lost money
 - Overspeculation on loans
-        - Many assumed unlimited stock increase
-        - Optimism on repaying loans
-        - Installment buying
-            - Basically interests but for products
+    - Many assumed unlimited stock increase
+    - Optimism on repaying loans
+    - Installment buying
+        - Basically interests but for products
 - Overproduction
     - Starts with farms and factories
         - **Parity**, the government pays farmers to compensate production costs, did not work
