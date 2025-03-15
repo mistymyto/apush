@@ -5,7 +5,7 @@
     - **Rugged Individualism**: the people can help themselves without government intervention
     - Maintain gold standard
     - Increase tariffs
-    - [Hawley-Smoot Tariff](../concepts/hawley-smoot.md)
+    - [Hawley-Smoot Tariff](../policies/hawley-smoot.md)
 - Received significant backlash from lower and middle class
     - Lead the creation of "Hooverville"
     - Ended the [Bonus March](../events/bonus_march.md) with military actions
