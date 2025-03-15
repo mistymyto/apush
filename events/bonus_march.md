@@ -9,4 +9,4 @@
 - Economic downfall from [the Great Depression](great_depression.md) and the [Stock Market Crash](stock%20market%20crash.md)
 
 ## Effects
-- Drastic decrease in Hoover's popularity that led to the election of [FDR](roosevelt_franklin.md)
+- Drastic decrease in Hoover's popularity that led to the election of [FDR](../people/roosevelt_franklin.md)
