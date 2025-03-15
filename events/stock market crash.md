@@ -23,3 +23,6 @@
     2. Workers suffer from layoffs or wage cuts
     3. No buying stuff womp womp
     4. No demands for businesses
+
+## Effects
+- Lead to [the Great Depression](great_depression.md)
