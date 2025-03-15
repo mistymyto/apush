@@ -2,7 +2,7 @@
 - In 1932, thousands of unemployed WWI veterans established a Hooverville outside of Washington
 - Demanded immediate payment of bonuses
 - Congress did not pass bonus bill
-- [Hoover](../people/hoover_herbert.md) ordereed army, lead by General McArthur, to break up encampments
+- [Hoover](../people/hoover_herbert.md) ordereed army, lead by General MacArthur, to break up encampments
 
 ## Causes
 - Anger that resulted from being falsely promised to receive bonuses from the government
