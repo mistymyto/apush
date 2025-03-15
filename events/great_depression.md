@@ -2,7 +2,8 @@
 - National, major economic recession during the 1920s
 
 ## Causes
-- Hoover
+- [Stock Market Crash](stock%20market%20crash.md)
+- [Herbert Hoover](hoover_herbert.md)'s policies
 
 ## Effects
 - Domestic
@@ -12,4 +13,4 @@
     - 13 million unemployed by 1933, 25% of the workforce, not including farmers
 - Foreign
     - Reduced international trade and economic activities
-    - Caused Germany's economic downfall and the rise of the Nazi Party
+    - Caused Germany's further economic downfall and the rise of the Nazi Party
