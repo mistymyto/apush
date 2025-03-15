@@ -11,7 +11,9 @@
     - Established entities such as the AAA, FDIC, CCC, and TVA
 
 ## Critics
-
+- [Demagogues](../entities/demagogues.md)
+- [American Liberty League](../entities/american%20liberty%20league.md)
+- [Republicans](../entities/republicans.md)
 
 ## Fireside Chats
 - A series of evening radio addresses given by President FDR, 1933-1944
