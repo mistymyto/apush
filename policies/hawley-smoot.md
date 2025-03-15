@@ -4,4 +4,4 @@
 - Meant to protect US markets
 - Europeans placed retaliatary tariffs instead
 - Lead to reduction of world trade
-- Fueled the Great Depression
+- Fueled [the Great Depression](../events/great_depression)
