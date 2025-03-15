@@ -1,5 +1,6 @@
 # The New Deal
-
+- Proposed by [Franklin D. Roosevelt](../people/roosevelt_franklin.md)
+- Purpose is to help aid the country in [the Great Depression](../events/great_depression.md)
 - Repeal of Prohibition
 - Aid for the unemployed
 - Balance budgets
