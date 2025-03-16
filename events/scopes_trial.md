@@ -1,4 +1,4 @@
-# Scopes Trials
+# Scopes Trial
 > "The Conflict" - "Hell & the High School"
 
 - John Scopes, a high school science teacher, was prosecuted by the Tennessee court because he taught evolution in a public school
