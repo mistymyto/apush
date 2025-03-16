@@ -2,7 +2,7 @@
 This repository is a collection of my notes taken in 2024-25 uploaded to Github for portability.
 
 ## Types of notes
-- **Timelines**: the gist of eras, like major events, people, causation and continuity, etc.
+- **Eras**: the gist of major time periods, like events, people, causation and continuity, etc. It also acts as a nice index to everything.
 - **People**: biographical notes of significant figures, which lists their occupation and, if available, works.
 - **Events**: chronological events that greatly affect history with causes and effects.
 - **Entities**: participating social, economical, or political groups with ideologies and goals.
