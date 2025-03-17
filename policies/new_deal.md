@@ -27,7 +27,7 @@
     - Paid the unemployed to construct environmental conversation projects
     - Excluded women entirely however
 - Tenessee Valley Authority (TVA)
-    - Designed to modernize upper rural South through employing people to build civil engineering projects like:
+    - Designed to modernize upper rural South through employing people to build electricity and water infrastructure like:
         - Dams
         - Inland waterways
         - Electric power plants
@@ -37,9 +37,13 @@
 ## Second New Deal
 - Proposed in second term, 1935-39
 - [National Labor Relations/Wagner Act](wagner_act.md)
-- WPA
+- Work's Progress Administration (WPA)
+    - Employed the most people during the period
+    - Built mostly logistical infrastructure and public buildings
 - [Social Security](social_security.md)
 - Fair Labor Standards Act
+    - Set minimum wage to 40cents/hr and maximum workweek
+    - Restricted child labor under 16 but was overturned by *US v. Darby Lumber Co*
 
 ## Critics
 - [Demagogues](../entities/demagogues.md)
