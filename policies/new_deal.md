@@ -7,9 +7,28 @@
 - Emphasized progressive reforms
 - Expanded the size of the federal governments
     - Around 25 pieces of landmark legislation
-- First New Deal
-    - Proposed by Franklin Roosevelt in his first term
-    - Established entities such as the AAA, FDIC, CCC, and TVA
+
+## First New Deal
+- Proposed in FDR's first term, 1933-35
+- Agricultural Adjustment Act (AAA)
+    - Government paid farmers to kill off plants or livestocks
+    - Raises prices for goods with decreased supply
+    - Heavily criticized by both the public and the Congress
+    - Declared **unconstitutional** in Butler v. US, 1935
+- National Recovery Administration (NRA)
+    - Attempted to guarantee reasonable profits for business and fair wages and hours for labor 
+    - set wages, hours of work, levels of production, prices of finished goods
+    - Declared **unconstitutional** in 1935 for violating the [Interstate Commerce Act](interstate_commerce.md)
+- [Glass-Steagail Banking Reform Act](glass-steagail.md)
+- CCC
+- TVA
+
+## Second New Deal
+- Proposed in second term, 1935-39
+- Wagner Act/NLRA
+- WPA
+- [Social Security](social_security.md)
+- Fair Labor Standards Act
 
 ## Critics
 - [Demagogues](../entities/demagogues.md)
