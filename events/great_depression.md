@@ -2,7 +2,7 @@
 - National, major economic recession during the 1920s
 
 ## Causes
-- [Stock Market Crash](stock%20market%20crash.md)
+- [Stock Market Crash](stock_market_crash.md)
 - [Herbert Hoover](hoover_herbert.md)'s policies
 
 ## Effects
