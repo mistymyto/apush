@@ -1,4 +1,4 @@
-# The New Deal
+# The New Deal (!)
 - Proposed by [Franklin D. Roosevelt](../people/roosevelt_franklin.md)
 - Purpose is to help aid the country in [the Great Depression](../events/great_depression.md)
 - Repeal of Prohibition
@@ -19,13 +19,24 @@
     - Attempted to guarantee reasonable profits for business and fair wages and hours for labor 
     - set wages, hours of work, levels of production, prices of finished goods
     - Declared **unconstitutional** in 1935 for violating the [Interstate Commerce Act](interstate_commerce.md)
-- [Glass-Steagail Banking Reform Act](glass-steagail.md)
-- CCC
-- TVA
+- Glass-Steagail Banking Reform Act
+    - Federal Deposit Insurance Corporation (FDIC)
+        - Guaranteed individual banks' deposits up to $5000, which has risen to $250000 today
+    - Renewed people's trust in banks 
+- Civilian Conservation Corps (CCC)
+    - Paid the unemployed to construct environmental conversation projects
+    - Excluded women entirely however
+- Tenessee Valley Authority (TVA)
+    - Designed to modernize upper rural South through employing people to build civil engineering projects like:
+        - Dams
+        - Inland waterways
+        - Electric power plants
+        - Flood control facilities
+    - Provided lower electricity rate to families compared to private companies
 
 ## Second New Deal
 - Proposed in second term, 1935-39
-- Wagner Act/NLRA
+- [National Labor Relations/Wagner Act](wagner_act.md)
 - WPA
 - [Social Security](social_security.md)
 - Fair Labor Standards Act
