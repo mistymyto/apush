@@ -1,5 +1,5 @@
 # Isolationists
-- Opposed to [internationalists](internationalists.md)
+- As opposed to [internationalists](internationalists.md)
 - [Henry Cabot Lodge](lodge_henry_cabot.md)
 - Gerald Nye, senator
 - America First Committee
