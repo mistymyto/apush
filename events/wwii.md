@@ -1,6 +1,7 @@
 ## World War II
 - Axis
-    - [Benito Mussolini](mussolini_benito.md), Italy
-    - [Adolf Hitler](hitler_adolf.md), Germany
-    - [Hideki Tojo](tojo_hideki.md), Japan
+    - [Fascist](../policies/fascism.md) dictators 
+    - [Benito Mussolini](../people/mussolini_benito.md), Italy
+    - [Adolf Hitler](../people/hitler_adolf.md), Germany
+    - [Hideki Tojo](../people/tojo_hideki.md), Japan
 - Allies
