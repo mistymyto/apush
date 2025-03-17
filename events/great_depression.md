@@ -3,7 +3,7 @@
 
 ## Causes
 - [Stock Market Crash](stock_market_crash.md)
-- [Herbert Hoover](hoover_herbert.md)'s policies
+- [Herbert Hoover](../people/hoover_herbert.md)'s policies
 
 ## Effects
 - Domestic
