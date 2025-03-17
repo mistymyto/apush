@@ -1,4 +1,5 @@
 # Internationalists
+- Opposed to [isolationists.md](isolationists.md)
 - [FDR](roosevelt_franklin.md)
 - Henry Stimson, Secretary of War
 - Committee to Defend America
