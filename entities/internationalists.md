@@ -2,6 +2,7 @@
 - As opposed to [isolationists](isolationists.md)
 - [FDR](../people/roosevelt_franklin.md)
 - Henry Stimson, Secretary of War
+- [Dr. Suess](../people/suess.md)
 - Committee to Defend America
 
 ## Ideologies
