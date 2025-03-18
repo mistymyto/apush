@@ -12,3 +12,6 @@
 - Allies
     - England
     - [FDR](../people/roosevelt_franklin.md), The United States
+
+## Causes
+- [The Great Depression](great_depression.md) that lead to a global economic crisis
