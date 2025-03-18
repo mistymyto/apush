@@ -1,5 +1,7 @@
 # World War II
 ## Timeline
+- [Invasion of Poland](invasion_poland.md), Sep 1, 1939
+- [Pearl Harbor](pearl_harbor.md), Dec 7, 1941
 
 ## Entities
 - Axis
@@ -9,3 +11,4 @@
     - [Hideki Tojo](../people/tojo_hideki.md), Japan
 - Allies
     - England
+    - [FDR](../people/roosevelt_franklin.md), The United States
