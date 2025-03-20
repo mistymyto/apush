@@ -9,6 +9,7 @@
 - [Pearl Harbor](pearl_harbor.md), US declares war against Japan; Dec 7, 1941
 - Establishment of [War Relocation Authority](../entities/war_relocation_authority.md); March 18, 1942
 - [Battle of Midway](midway.md), Jun 3-7
+- [D-Day Invasion](d-day.md), 1944
 
 ## Mobilization
 > "We must be the great arsenal of democracy." - [FDR](../people/roosevelt_franklin.md), 1940
