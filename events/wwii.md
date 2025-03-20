@@ -1,6 +1,10 @@
 # World War II
+- European and Pacific Theater
+
 ## Timeline
 - [Invasion of Poland](invasion_poland.md); Sep 1, 1939
+- Germany invades France with blitzkrieg, May 1940
+- [Battle of Britain](battle_britain.md), Jul 10
 - [Pearl Harbor](pearl_harbor.md), US declares war; Dec 7, 1941
 
 ## Mobilization
@@ -8,7 +12,10 @@
 
 - Victory Gardens
 - War bonds
-- Demographical participation
+- Demographic participation
+    - African Americans
+    - Mexicans
+    - Women
 
 ## Entities
 - [Axis](../entities/axis.md)
