@@ -28,10 +28,15 @@
     - Revenue Act of 1942
     - War bonds
 
-### Minoral Demographic participation
+### Contributions
 - African Americans
 - Mexicans
+    -  
 - Women
+    - <ins>Rosie the Riveter</ins>
+    - Joined the military in non-combat roles
+    - Participated in office and factory jobs
+    - Many were forced to be unemployed when veterans returned
 
 ## Entities
 - [Axis](../entities/axis.md)
