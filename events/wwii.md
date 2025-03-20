@@ -2,7 +2,13 @@
 ## Timeline
 - [Invasion of Poland](invasion_poland.md); Sep 1, 1939
 - [Pearl Harbor](pearl_harbor.md), US declares war; Dec 7, 1941
-- Mobilization
+
+## Mobilization
+> "We must be the great arsenal of democracy." - [FDR](../people/roosevelt_franklin.md), 1940
+
+- Victory Gardens
+- War bonds
+- Demographical participation
 
 ## Entities
 - [Axis](../entities/axis.md)
