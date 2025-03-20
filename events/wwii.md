@@ -14,12 +14,24 @@
 ## Mobilization
 > "We must be the great arsenal of democracy." - [FDR](../people/roosevelt_franklin.md), 1940
 
-- Victory Gardens
-- War bonds
-- Demographic participation
-    - African Americans
-    - Mexicans
-    - Women
+- Agencies
+    - Wartime Production Board (WPB)
+    - Office of War Mobilization (OWM)
+    - Office of War Information (OWI)
+
+### Resources
+- Humanitarian
+    - Rationing
+    - Victory Gardens
+    - Scrap Metal/Rubber Drives
+- Economic
+    - Revenue Act of 1942
+    - War bonds
+
+### Minoral Demographic participation
+- African Americans
+- Mexicans
+- Women
 
 ## Entities
 - [Axis](../entities/axis.md)
