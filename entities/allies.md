@@ -12,7 +12,7 @@
 
 ### Military Leaders
 - Europe
-    - Dwight D. Eisenhower, Supreme Commander of the Allied Force in Europe (D-day)
+    - Dwight D. Eisenhower, Supreme Commander of the Allied Force in Europe in D-day
     - George C. Patton, commanded the Third Army in France and Germany after D-day
 - Pacific
     - Harry S. Truman
