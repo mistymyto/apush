@@ -11,5 +11,9 @@
 - USSR, led by [Joseph Stalin](../people/stalin_joseph.md)
 
 ### Military Leaders
-- Dwight D. Eisenhower, Supreme Commander of the Allied Force in Europe (D-day)
-- George C. Patton, commanded the Third Army in France and Germany after D-day
+- Europe
+    - Dwight D. Eisenhower, Supreme Commander of the Allied Force in Europe (D-day)
+    - George C. Patton, commanded the Third Army in France and Germany after D-day
+- Pacific
+    - Harry S. Truman
+    - General Douglas Macarthur 
