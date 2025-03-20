@@ -5,7 +5,8 @@
 - [Invasion of Poland](invasion_poland.md); Sep 1, 1939
 - Germany invades France with blitzkrieg, May 1940
 - [Battle of Britain](battle_britain.md), Jul 10-Oct 31
-- [Pearl Harbor](pearl_harbor.md), US declares war; Dec 7, 1941
+- [Pearl Harbor](pearl_harbor.md), US declares war against Japan; Dec 7, 1941
+- [Operation Barbarossa](operation_barbarossa.md)
 
 ## Mobilization
 > "We must be the great arsenal of democracy." - [FDR](../people/roosevelt_franklin.md), 1940
