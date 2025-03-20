@@ -8,4 +8,4 @@
 ## WWII
 - UK, led by [Winston Churchill](../people/churchill_winston.md)
 - US, led by [FDR](../people/roosevelt_franklin.md)
-- USSR, led by [Joseph Stalin](stalin_joseph.md)
+- USSR, led by [Joseph Stalin](../people/stalin_joseph.md)
