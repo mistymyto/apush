@@ -12,4 +12,4 @@
 
 ### Military Leaders
 - Dwight D. Eisenhower, Supreme Commander of the Allied Force in Europe (D-day)
-- George C. Patton
+- George C. Patton, commanded the Third Army in France and Germany after D-day
