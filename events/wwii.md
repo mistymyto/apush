@@ -7,7 +7,8 @@
 - [Battle of Britain](battle_britain.md), Jul 10-Oct 31
 - [Operation Barbarossa](operation_barbarossa.md), USSR joins allies, Jun 22
 - [Pearl Harbor](pearl_harbor.md), US declares war against Japan; Dec 7, 1941
-- Establishment of [War Relocation Authority](../entities/war_relocation_authority.md), 1942
+- Establishment of [War Relocation Authority](../entities/war_relocation_authority.md); March 18, 1942
+- [Battle of Midway](midway.md), Jun 3-7
 
 ## Mobilization
 > "We must be the great arsenal of democracy." - [FDR](../people/roosevelt_franklin.md), 1940
