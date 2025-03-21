@@ -20,6 +20,7 @@
     - Hitler ends his own life
     - Commander of the Berlin Defense Area unconditionally surrenders
     - The horrors of the Holocaust
+- [The Potsdam Conference](potsdam_conference.md)
 
 ## Mobilization
 > "We must be the great arsenal of democracy." - [FDR](../people/roosevelt_franklin.md), 1940
