@@ -16,8 +16,9 @@
 - Battle of the Bulge; Dec 16, 1944-Jan 25, 1945
     - Last major German Blitzkrieg
 - [The Yalta Conference](yalta_conference.md), Feb 4-11
-- Germany surrenders, May 7
+- Germany surrenders, May 2
     - Hitler ends his own life
+    - Commander of the Berlin Defense Area unconditionally surrenders
 
 ## Mobilization
 > "We must be the great arsenal of democracy." - [FDR](../people/roosevelt_franklin.md), 1940
