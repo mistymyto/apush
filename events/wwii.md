@@ -11,6 +11,7 @@
 - Establishment of [War Relocation Authority](../entities/war_relocation_authority.md); March 18, 1942
 - [Battle of Midway](midway.md), Jun 3-7
 - [The Casablanca Conference](casablanca_conference.md), 1943
+- [The Tehran Conference](tehran_conference.md)
 - [D-Day Invasion](d-day.md), Jun 6, 1944
 
 ## Mobilization
