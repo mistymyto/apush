@@ -10,6 +10,7 @@
 - [Pearl Harbor](pearl_harbor.md), US declares war against Japan, Dec 7
 - Establishment of [War Relocation Authority](../entities/war_relocation_authority.md); March 18, 1942
 - [Battle of Midway](midway.md), Jun 3-7
+- [The Casablanca Conference](casablanca_conference.md), 1943
 - [D-Day Invasion](d-day.md), Jun 6, 1944
 
 ## Mobilization
