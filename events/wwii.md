@@ -13,8 +13,9 @@
 - [The Casablanca Conference](casablanca_conference.md), 1943
 - [The Tehran Conference](tehran_conference.md)
 - [D-Day Invasion](d-day.md), Jun 6, 1944
-- Battle of the Bulge, 1945
+- Battle of the Bulge; Dec 16, 1944-Jan 25, 1945
     - Last major German Blitzkrieg
+- [The Yalta Conference](yalta_conference.md), Feb 4-11
 
 ## Mobilization
 > "We must be the great arsenal of democracy." - [FDR](../people/roosevelt_franklin.md), 1940
