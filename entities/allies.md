@@ -17,4 +17,4 @@
     - George C. Patton, commanded the Third Army in France and Germany after D-day
 - Pacific
     - Harry S. Truman
-    - General Douglas Macarthur
+    - [General Douglas Macarthur](../people/macarthur_douglas.md)
