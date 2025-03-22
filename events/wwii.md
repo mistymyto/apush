@@ -22,15 +22,21 @@
     - Commander of the Berlin Defense Area unconditionally surrenders
     - The horrors of the Holocaust
 - [The Potsdam Conference](potsdam_conference.md)
-- [Iwo Jima and Okinawa](iwo_jima&okinawa.md)
+- [Iwo Jima and Okinawa](iwo_jima_okinawa.md)
 
 ## Mobilization
 > "We must be the great arsenal of democracy." - [FDR](../people/roosevelt_franklin.md), 1940
 
 - Agencies
     - Wartime Production Board (WPB)
+        - Responsible for converting peacetime industries into producing military goods
     - Office of War Mobilization (OWM)
+        - Managed production priorities of raw materials
+        - Factories produced a total of 296429 warplanes, 5425 cargo ships, and 102351 tanks and guns
     - Office of War Information (OWI)
+        - Created six months after Pearl Harbor
+        - Propaganda agency with mediums of film, texts, photos, radio programs, and posters
+        - Division named Bureau of Motion Pictures (BMP) was responsible for producing the materials
 
 ### Resources
 - Humanitarian
@@ -39,12 +45,30 @@
     - Scrap Metal/Rubber Drives
 - Economic
     - Revenue Act of 1942
+        - "Victory Tax" that taxed 5% if individual income >= $624
+        - Credit was given postwar
+        - Increased the amount of taxpayers from 13 million to 50 million
     - War bonds
 
-### Contributions
+### Demographics
 - African Americans
-- Mexicans
-    -  
+    - <ins>A. Philip Randolph</ins>
+        - Civil Rights Leader
+        - Protested segregation and discrimination on the basis of war contributions
+        - Threatened a march in Washington D.C.
+        - FDR signed an executive order to prohibit discrimination in federal contracted businesses
+    - "Double V" Campaign
+        - Victory over fascism abroad and racism at home
+        - Increased NAACP membership
+    - Congress on Racial Equality (CORE)
+        - Founded based on Ghandi's non-violent civil disobedience philosophy
+        - Laid the groundwork for later civil rights movement
+- Hispanics
+    - Bracero programs
+        - Paid Mexican workers, braceros, to farm and build railroads with benefits
+        - Mexico government approved because it brings new skills and improves the economy
+    - Zoot Suit Riots
+        - Riots of Civilians and police officers against Latino communities
 - Women
     - <ins>Rosie the Riveter</ins>
     - Joined the military in non-combat roles
@@ -57,3 +81,5 @@
 
 ## Causes
 - [The Great Depression](great_depression.md) that lead to a global economic crisis
+
+## Effects
