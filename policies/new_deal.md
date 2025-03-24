@@ -47,7 +47,7 @@
 
 ## Critics
 - [Demagogues](../entities/demagogues.md)
-- [American Liberty League](../entities/american%20liberty%20league.md)
+- [American Liberty League](../entities/american_liberty_league.md)
 - [Republicans](../entities/republicans.md)
 - [The Supreme Court](../entities/supreme_court.md)
     - Declares many of New Deal programs unconstitutional
