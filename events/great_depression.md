@@ -14,4 +14,4 @@
     - Election of [FDR](../people/roosevelt_franklin.md)
 - Foreign
     - Reduced international trade and economic activities
-    - Caused Germany's further economic downfall and the rise of the Nazi Party
+    - Caused Germany's further economic downfall
